@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "149635666414",
+    "firebase_url": "https://bankika-9596d.firebaseio.com",
+    "project_id": "bankika-9596d",
+    "storage_bucket": "bankika-9596d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149635666414:android:79bf238c1c98fb07",
+        "android_client_info": {
+          "package_name": "com.example.emobilis.firebaseprojects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149635666414-4e5gd2f2nlr8ssugtbnf5atm9uvshlbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWCBx72B_ZkT5Lwc0WTVEKBWYBRK49zs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
